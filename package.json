@@ -1,0 +1,25 @@
+{
+  "name": "mock-context",
+  "version": "0.0.1",
+  "description": "Create mock context to use as sandbox with vm.runInNewContext ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unitcluster/mock-context.git"
+  },
+  "keywords": [
+    "sandbox",
+    "context",
+    "vm",
+    "runInNewContext"
+  ],
+  "author": "vlad@difogic.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unitcluster/mock-context/issues"
+  },
+  "homepage": "https://github.com/unitcluster/mock-context#readme"
+}
