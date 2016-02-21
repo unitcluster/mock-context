@@ -1,6 +1,6 @@
 {
   "name": "mock-context",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create mock context to use as sandbox with vm.runInNewContext ",
   "main": "index.js",
   "scripts": {
