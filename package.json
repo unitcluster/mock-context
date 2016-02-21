@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/unitcluster/mock-context/issues"
   },
-  "homepage": "https://github.com/unitcluster/mock-context#readme"
+  "homepage": "https://github.com/unitcluster/mock-context#readme",
+  "dependencies": {
+    "deep": "0.0.2"
+  }
 }
