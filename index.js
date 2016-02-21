@@ -98,7 +98,7 @@ module.exports = function(custom, options) {
   sandbox.console = makeConsoleProxy();
 
   if (custom && Object.keys(custom).length) {
-    sandbox = deep.extend(sandbox)
+    sandbox = deep.extend(sandbox, custom)
   }
 
   return vm.createContext(sandbox);
